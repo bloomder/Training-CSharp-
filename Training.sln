@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training", "Training\Training.csproj", "{12AA6152-53E9-4946-ABA1-7FBBC42BE2C4}"
 EndProject
@@ -48,6 +48,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47_Events", "47_Events\47_Events.csproj", "{5511755D-18EC-47B6-928E-AC0D77FEA6CC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "48_AddRemoveEvent", "48_AddRemoveEvent\48_AddRemoveEvent.csproj", "{D03D9F8E-3D5D-430A-94D4-08AE7229FEBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50_Thread", "50_Thread\50_Thread.csproj", "{2FB5F2F1-FF02-4EF0-8B0F-D56A4E958AEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{D03D9F8E-3D5D-430A-94D4-08AE7229FEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D03D9F8E-3D5D-430A-94D4-08AE7229FEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D03D9F8E-3D5D-430A-94D4-08AE7229FEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FB5F2F1-FF02-4EF0-8B0F-D56A4E958AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FB5F2F1-FF02-4EF0-8B0F-D56A4E958AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FB5F2F1-FF02-4EF0-8B0F-D56A4E958AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FB5F2F1-FF02-4EF0-8B0F-D56A4E958AEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

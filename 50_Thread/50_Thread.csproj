@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7A8A9B40-8771-4323-BEEA-FE20876E0079}</ProjectGuid>
+    <ProjectGuid>{2FB5F2F1-FF02-4EF0-8B0F-D56A4E958AEA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NewConstraint</RootNamespace>
-    <AssemblyName>NewConstraint</AssemblyName>
+    <RootNamespace>_50_Thread</RootNamespace>
+    <AssemblyName>50_Thread</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
