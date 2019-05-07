@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51_ParametrizetgThread", "5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "52_Thread.isBackground", "52_Thread.isBackground\52_Thread.isBackground.csproj", "{D1BE6E0E-E1D2-4A49-B998-7FA17009460F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "53_Critiacal_Section", "53_Critiacal_Section\53_Critiacal_Section.csproj", "{665CCFA7-59B1-4CCB-B2B7-0FEB0F4A854B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{D1BE6E0E-E1D2-4A49-B998-7FA17009460F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1BE6E0E-E1D2-4A49-B998-7FA17009460F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1BE6E0E-E1D2-4A49-B998-7FA17009460F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{665CCFA7-59B1-4CCB-B2B7-0FEB0F4A854B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665CCFA7-59B1-4CCB-B2B7-0FEB0F4A854B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665CCFA7-59B1-4CCB-B2B7-0FEB0F4A854B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665CCFA7-59B1-4CCB-B2B7-0FEB0F4A854B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
