@@ -38,6 +38,7 @@ namespace Indexator
         static void Main(string[] args)
         {
             MyClass m1 = new MyClass();
+            m1[5] = 10;
             Console.WriteLine($"{m1[5]}");
             Console.ReadKey();
         }
