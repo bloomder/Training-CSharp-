@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28902.138
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Training", "Training\Training.csproj", "{12AA6152-53E9-4946-ABA1-7FBBC42BE2C4}"
 EndProject
@@ -78,6 +78,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "63_Inner_Exception", "63_Inner_Exception\63_Inner_Exception.csproj", "{9A1D7382-A577-4060-ADC9-9CB3C346724B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "64_Object", "64_Object\64_Object.csproj", "{406C77AD-A9DF-452E-AEC1-07A2B313ED5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "72_Overload_Operators", "72_Overload_Operators\72_Overload_Operators.csproj", "{AC46DEF5-DD06-4C49-B72E-33B379E63AFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +239,10 @@ Global
 		{406C77AD-A9DF-452E-AEC1-07A2B313ED5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{406C77AD-A9DF-452E-AEC1-07A2B313ED5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{406C77AD-A9DF-452E-AEC1-07A2B313ED5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC46DEF5-DD06-4C49-B72E-33B379E63AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC46DEF5-DD06-4C49-B72E-33B379E63AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC46DEF5-DD06-4C49-B72E-33B379E63AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC46DEF5-DD06-4C49-B72E-33B379E63AFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
